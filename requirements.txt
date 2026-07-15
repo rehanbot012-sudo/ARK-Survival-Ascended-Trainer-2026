@@ -1,0 +1,7 @@
+colorama
+win32api
+keyboard
+pygetwindow
+pymem
+mouse
+mss
